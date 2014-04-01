@@ -4,5 +4,9 @@
     <string name="app_name">LexDroidEjemploTabs</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-
+    <string name="opc01">Opción 1</string>
+    <string name="opc02">Opción 2</string>
+    <string name="opc03">Opción 3</string>
+	<string name="opc04">Opción 4</string>
+	
 </resources>
